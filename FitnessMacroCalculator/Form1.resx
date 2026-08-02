@@ -117,7 +117,57 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="&gt;&gt;guna2HtmlLabel2.Name" xml:space="preserve">
+    <value>guna2HtmlLabel2</value>
+  </data>
+  <data name="&gt;&gt;guna2HtmlLabel2.Type" xml:space="preserve">
+    <value>Guna.UI2.WinForms.Guna2HtmlLabel, Guna.UI2, Version=2.0.4.8, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
+  </data>
+  <data name="&gt;&gt;guna2HtmlLabel2.Parent" xml:space="preserve">
+    <value>pnlHeader</value>
+  </data>
+  <data name="&gt;&gt;guna2HtmlLabel2.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;guna2HtmlLabel1.Name" xml:space="preserve">
+    <value>guna2HtmlLabel1</value>
+  </data>
+  <data name="&gt;&gt;guna2HtmlLabel1.Type" xml:space="preserve">
+    <value>Guna.UI2.WinForms.Guna2HtmlLabel, Guna.UI2, Version=2.0.4.8, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
+  </data>
+  <data name="&gt;&gt;guna2HtmlLabel1.Parent" xml:space="preserve">
+    <value>pnlHeader</value>
+  </data>
+  <data name="&gt;&gt;guna2HtmlLabel1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="pnlHeader.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="pnlHeader.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="pnlHeader.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1419, 103</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="pnlHeader.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;pnlHeader.Name" xml:space="preserve">
+    <value>pnlHeader</value>
+  </data>
+  <data name="&gt;&gt;pnlHeader.Type" xml:space="preserve">
+    <value>Guna.UI2.WinForms.Guna2Panel, Guna.UI2, Version=2.0.4.8, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
+  </data>
+  <data name="&gt;&gt;pnlHeader.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pnlHeader.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
   <data name="guna2HtmlLabel2.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI, 7.8pt, style=Bold</value>
   </data>
@@ -127,7 +177,6 @@
   <data name="guna2HtmlLabel2.Size" type="System.Drawing.Size, System.Drawing">
     <value>351, 19</value>
   </data>
-  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="guna2HtmlLabel2.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
   </data>
@@ -172,31 +221,6 @@
   </data>
   <data name="&gt;&gt;guna2HtmlLabel1.ZOrder" xml:space="preserve">
     <value>1</value>
-  </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="pnlHeader.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Top</value>
-  </data>
-  <data name="pnlHeader.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 0</value>
-  </data>
-  <data name="pnlHeader.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1419, 103</value>
-  </data>
-  <data name="pnlHeader.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;pnlHeader.Name" xml:space="preserve">
-    <value>pnlHeader</value>
-  </data>
-  <data name="&gt;&gt;pnlHeader.Type" xml:space="preserve">
-    <value>Guna.UI2.WinForms.Guna2Panel, Guna.UI2, Version=2.0.4.8, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
-  </data>
-  <data name="&gt;&gt;pnlHeader.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;pnlHeader.ZOrder" xml:space="preserve">
-    <value>4</value>
   </data>
   <data name="&gt;&gt;rdoFemale.Name" xml:space="preserve">
     <value>rdoFemale</value>
@@ -258,28 +282,28 @@
   <data name="&gt;&gt;guna2HtmlLabel5.ZOrder" xml:space="preserve">
     <value>4</value>
   </data>
-  <data name="&gt;&gt;guna2TextBox2.Name" xml:space="preserve">
-    <value>guna2TextBox2</value>
-  </data>
-  <data name="&gt;&gt;guna2TextBox2.Type" xml:space="preserve">
-    <value>Guna.UI2.WinForms.Guna2TextBox, Guna.UI2, Version=2.0.4.8, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
-  </data>
-  <data name="&gt;&gt;guna2TextBox2.Parent" xml:space="preserve">
-    <value>pnlInputs</value>
-  </data>
-  <data name="&gt;&gt;guna2TextBox2.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
   <data name="&gt;&gt;txtHeight.Name" xml:space="preserve">
     <value>txtHeight</value>
   </data>
   <data name="&gt;&gt;txtHeight.Type" xml:space="preserve">
-    <value>Guna.UI2.WinForms.Guna2HtmlLabel, Guna.UI2, Version=2.0.4.8, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
+    <value>Guna.UI2.WinForms.Guna2TextBox, Guna.UI2, Version=2.0.4.8, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
   </data>
   <data name="&gt;&gt;txtHeight.Parent" xml:space="preserve">
     <value>pnlInputs</value>
   </data>
   <data name="&gt;&gt;txtHeight.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;tx.Name" xml:space="preserve">
+    <value>tx</value>
+  </data>
+  <data name="&gt;&gt;tx.Type" xml:space="preserve">
+    <value>Guna.UI2.WinForms.Guna2HtmlLabel, Guna.UI2, Version=2.0.4.8, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
+  </data>
+  <data name="&gt;&gt;tx.Parent" xml:space="preserve">
+    <value>pnlInputs</value>
+  </data>
+  <data name="&gt;&gt;tx.ZOrder" xml:space="preserve">
     <value>6</value>
   </data>
   <data name="&gt;&gt;txtWeight.Name" xml:space="preserve">
@@ -486,58 +510,58 @@
   <data name="&gt;&gt;guna2HtmlLabel5.ZOrder" xml:space="preserve">
     <value>4</value>
   </data>
-  <data name="guna2TextBox2.Font" type="System.Drawing.Font, System.Drawing">
+  <data name="txtHeight.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI, 9pt</value>
   </data>
-  <data name="guna2TextBox2.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="txtHeight.Location" type="System.Drawing.Point, System.Drawing">
     <value>45, 257</value>
   </data>
-  <data name="guna2TextBox2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+  <data name="txtHeight.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 4, 3, 4</value>
   </data>
-  <data name="guna2TextBox2.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="txtHeight.Size" type="System.Drawing.Size, System.Drawing">
     <value>305, 48</value>
   </data>
-  <data name="guna2TextBox2.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
-  </data>
-  <data name="&gt;&gt;guna2TextBox2.Name" xml:space="preserve">
-    <value>guna2TextBox2</value>
-  </data>
-  <data name="&gt;&gt;guna2TextBox2.Type" xml:space="preserve">
-    <value>Guna.UI2.WinForms.Guna2TextBox, Guna.UI2, Version=2.0.4.8, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
-  </data>
-  <data name="&gt;&gt;guna2TextBox2.Parent" xml:space="preserve">
-    <value>pnlInputs</value>
-  </data>
-  <data name="&gt;&gt;guna2TextBox2.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="txtHeight.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Tahoma, 9pt, style=Bold</value>
-  </data>
-  <data name="txtHeight.Location" type="System.Drawing.Point, System.Drawing">
-    <value>29, 221</value>
-  </data>
-  <data name="txtHeight.Size" type="System.Drawing.Size, System.Drawing">
-    <value>91, 20</value>
-  </data>
   <data name="txtHeight.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
-  </data>
-  <data name="txtHeight.Text" xml:space="preserve">
-    <value>Height (cm)</value>
+    <value>5</value>
   </data>
   <data name="&gt;&gt;txtHeight.Name" xml:space="preserve">
     <value>txtHeight</value>
   </data>
   <data name="&gt;&gt;txtHeight.Type" xml:space="preserve">
-    <value>Guna.UI2.WinForms.Guna2HtmlLabel, Guna.UI2, Version=2.0.4.8, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
+    <value>Guna.UI2.WinForms.Guna2TextBox, Guna.UI2, Version=2.0.4.8, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
   </data>
   <data name="&gt;&gt;txtHeight.Parent" xml:space="preserve">
     <value>pnlInputs</value>
   </data>
   <data name="&gt;&gt;txtHeight.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="tx.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 9pt, style=Bold</value>
+  </data>
+  <data name="tx.Location" type="System.Drawing.Point, System.Drawing">
+    <value>29, 221</value>
+  </data>
+  <data name="tx.Size" type="System.Drawing.Size, System.Drawing">
+    <value>91, 20</value>
+  </data>
+  <data name="tx.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="tx.Text" xml:space="preserve">
+    <value>Height (cm)</value>
+  </data>
+  <data name="&gt;&gt;tx.Name" xml:space="preserve">
+    <value>tx</value>
+  </data>
+  <data name="&gt;&gt;tx.Type" xml:space="preserve">
+    <value>Guna.UI2.WinForms.Guna2HtmlLabel, Guna.UI2, Version=2.0.4.8, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
+  </data>
+  <data name="&gt;&gt;tx.Parent" xml:space="preserve">
+    <value>pnlInputs</value>
+  </data>
+  <data name="&gt;&gt;tx.ZOrder" xml:space="preserve">
     <value>6</value>
   </data>
   <data name="txtWeight.Font" type="System.Drawing.Font, System.Drawing">
@@ -709,13 +733,13 @@
     <value>31, 205</value>
   </data>
   <data name="guna2HtmlLabel9.Size" type="System.Drawing.Size, System.Drawing">
-    <value>31, 20</value>
+    <value>37, 20</value>
   </data>
   <data name="guna2HtmlLabel9.TabIndex" type="System.Int32, mscorlib">
     <value>11</value>
   </data>
   <data name="guna2HtmlLabel9.Text" xml:space="preserve">
-    <value>Age</value>
+    <value>Goal</value>
   </data>
   <data name="&gt;&gt;guna2HtmlLabel9.Name" xml:space="preserve">
     <value>guna2HtmlLabel9</value>
@@ -811,13 +835,13 @@
     <value>31, 85</value>
   </data>
   <data name="guna2HtmlLabel8.Size" type="System.Drawing.Size, System.Drawing">
-    <value>93, 20</value>
+    <value>106, 20</value>
   </data>
   <data name="guna2HtmlLabel8.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
   </data>
   <data name="guna2HtmlLabel8.Text" xml:space="preserve">
-    <value>Weight (Kg)</value>
+    <value>Activity Level</value>
   </data>
   <data name="&gt;&gt;guna2HtmlLabel8.Name" xml:space="preserve">
     <value>guna2HtmlLabel8</value>
@@ -990,16 +1014,16 @@
   <data name="&gt;&gt;guna2HtmlLabel14.ZOrder" xml:space="preserve">
     <value>10</value>
   </data>
-  <data name="&gt;&gt;lnlTdeeResult.Name" xml:space="preserve">
-    <value>lnlTdeeResult</value>
+  <data name="&gt;&gt;lblTdeeResult.Name" xml:space="preserve">
+    <value>lblTdeeResult</value>
   </data>
-  <data name="&gt;&gt;lnlTdeeResult.Type" xml:space="preserve">
+  <data name="&gt;&gt;lblTdeeResult.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;lnlTdeeResult.Parent" xml:space="preserve">
+  <data name="&gt;&gt;lblTdeeResult.Parent" xml:space="preserve">
     <value>pnlResults</value>
   </data>
-  <data name="&gt;&gt;lnlTdeeResult.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;lblTdeeResult.ZOrder" xml:space="preserve">
     <value>11</value>
   </data>
   <data name="&gt;&gt;guna2HtmlLabel13.Name" xml:space="preserve">
@@ -1082,6 +1106,186 @@
   </data>
   <data name="&gt;&gt;pnlResults.ZOrder" xml:space="preserve">
     <value>1</value>
+  </data>
+  <data name="lblFatsResult.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblFatsResult.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 10.2pt, style=Bold</value>
+  </data>
+  <data name="lblFatsResult.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblFatsResult.Location" type="System.Drawing.Point, System.Drawing">
+    <value>312, 540</value>
+  </data>
+  <data name="lblFatsResult.Size" type="System.Drawing.Size, System.Drawing">
+    <value>21, 21</value>
+  </data>
+  <data name="lblFatsResult.TabIndex" type="System.Int32, mscorlib">
+    <value>27</value>
+  </data>
+  <data name="lblFatsResult.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;lblFatsResult.Name" xml:space="preserve">
+    <value>lblFatsResult</value>
+  </data>
+  <data name="&gt;&gt;lblFatsResult.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblFatsResult.Parent" xml:space="preserve">
+    <value>pnlResults</value>
+  </data>
+  <data name="&gt;&gt;lblFatsResult.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="lblCarbsResult.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblCarbsResult.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 10.2pt, style=Bold</value>
+  </data>
+  <data name="lblCarbsResult.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblCarbsResult.Location" type="System.Drawing.Point, System.Drawing">
+    <value>312, 504</value>
+  </data>
+  <data name="lblCarbsResult.Size" type="System.Drawing.Size, System.Drawing">
+    <value>21, 21</value>
+  </data>
+  <data name="lblCarbsResult.TabIndex" type="System.Int32, mscorlib">
+    <value>26</value>
+  </data>
+  <data name="lblCarbsResult.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;lblCarbsResult.Name" xml:space="preserve">
+    <value>lblCarbsResult</value>
+  </data>
+  <data name="&gt;&gt;lblCarbsResult.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblCarbsResult.Parent" xml:space="preserve">
+    <value>pnlResults</value>
+  </data>
+  <data name="&gt;&gt;lblCarbsResult.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="lblProteinResult.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblProteinResult.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 10.2pt, style=Bold</value>
+  </data>
+  <data name="lblProteinResult.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblProteinResult.Location" type="System.Drawing.Point, System.Drawing">
+    <value>312, 468</value>
+  </data>
+  <data name="lblProteinResult.Size" type="System.Drawing.Size, System.Drawing">
+    <value>21, 21</value>
+  </data>
+  <data name="lblProteinResult.TabIndex" type="System.Int32, mscorlib">
+    <value>25</value>
+  </data>
+  <data name="lblProteinResult.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;lblProteinResult.Name" xml:space="preserve">
+    <value>lblProteinResult</value>
+  </data>
+  <data name="&gt;&gt;lblProteinResult.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblProteinResult.Parent" xml:space="preserve">
+    <value>pnlResults</value>
+  </data>
+  <data name="&gt;&gt;lblProteinResult.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="pictureBox3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pictureBox3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>37, 540</value>
+  </data>
+  <data name="pictureBox3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>22, 27</value>
+  </data>
+  <data name="pictureBox3.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="pictureBox3.TabIndex" type="System.Int32, mscorlib">
+    <value>24</value>
+  </data>
+  <data name="&gt;&gt;pictureBox3.Name" xml:space="preserve">
+    <value>pictureBox3</value>
+  </data>
+  <data name="&gt;&gt;pictureBox3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictureBox3.Parent" xml:space="preserve">
+    <value>pnlResults</value>
+  </data>
+  <data name="&gt;&gt;pictureBox3.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="pictureBox2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pictureBox2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>37, 505</value>
+  </data>
+  <data name="pictureBox2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>22, 20</value>
+  </data>
+  <data name="pictureBox2.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="pictureBox2.TabIndex" type="System.Int32, mscorlib">
+    <value>23</value>
+  </data>
+  <data name="&gt;&gt;pictureBox2.Name" xml:space="preserve">
+    <value>pictureBox2</value>
+  </data>
+  <data name="&gt;&gt;pictureBox2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictureBox2.Parent" xml:space="preserve">
+    <value>pnlResults</value>
+  </data>
+  <data name="&gt;&gt;pictureBox2.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="pictureBox1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pictureBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>37, 469</value>
+  </data>
+  <data name="pictureBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>22, 20</value>
+  </data>
+  <data name="pictureBox1.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="pictureBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>22</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Name" xml:space="preserve">
+    <value>pictureBox1</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Parent" xml:space="preserve">
+    <value>pnlResults</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.ZOrder" xml:space="preserve">
+    <value>5</value>
   </data>
   <data name="guna2HtmlLabel18.Font" type="System.Drawing.Font, System.Drawing">
     <value>Tahoma, 9pt, style=Bold</value>
@@ -1195,7 +1399,7 @@
     <value>Tahoma, 7.8pt, style=Bold</value>
   </data>
   <data name="guna2HtmlLabel14.Location" type="System.Drawing.Point, System.Drawing">
-    <value>49, 344</value>
+    <value>49, 336</value>
   </data>
   <data name="guna2HtmlLabel14.Size" type="System.Drawing.Size, System.Drawing">
     <value>61, 18</value>
@@ -1218,37 +1422,37 @@
   <data name="&gt;&gt;guna2HtmlLabel14.ZOrder" xml:space="preserve">
     <value>10</value>
   </data>
-  <data name="lnlTdeeResult.AutoSize" type="System.Boolean, mscorlib">
+  <data name="lblTdeeResult.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="lnlTdeeResult.Font" type="System.Drawing.Font, System.Drawing">
+  <data name="lblTdeeResult.Font" type="System.Drawing.Font, System.Drawing">
     <value>Tahoma, 19.8000011pt, style=Bold</value>
   </data>
-  <data name="lnlTdeeResult.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="lblTdeeResult.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="lnlTdeeResult.Location" type="System.Drawing.Point, System.Drawing">
-    <value>42, 289</value>
+  <data name="lblTdeeResult.Location" type="System.Drawing.Point, System.Drawing">
+    <value>42, 283</value>
   </data>
-  <data name="lnlTdeeResult.Size" type="System.Drawing.Size, System.Drawing">
-    <value>117, 41</value>
+  <data name="lblTdeeResult.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 41</value>
   </data>
-  <data name="lnlTdeeResult.TabIndex" type="System.Int32, mscorlib">
+  <data name="lblTdeeResult.TabIndex" type="System.Int32, mscorlib">
     <value>16</value>
   </data>
-  <data name="lnlTdeeResult.Text" xml:space="preserve">
-    <value>2,775</value>
+  <data name="lblTdeeResult.Text" xml:space="preserve">
+    <value>0</value>
   </data>
-  <data name="&gt;&gt;lnlTdeeResult.Name" xml:space="preserve">
-    <value>lnlTdeeResult</value>
+  <data name="&gt;&gt;lblTdeeResult.Name" xml:space="preserve">
+    <value>lblTdeeResult</value>
   </data>
-  <data name="&gt;&gt;lnlTdeeResult.Type" xml:space="preserve">
+  <data name="&gt;&gt;lblTdeeResult.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;lnlTdeeResult.Parent" xml:space="preserve">
+  <data name="&gt;&gt;lblTdeeResult.Parent" xml:space="preserve">
     <value>pnlResults</value>
   </data>
-  <data name="&gt;&gt;lnlTdeeResult.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;lblTdeeResult.ZOrder" xml:space="preserve">
     <value>11</value>
   </data>
   <data name="guna2HtmlLabel13.Font" type="System.Drawing.Font, System.Drawing">
@@ -1318,13 +1522,13 @@
     <value>42, 118</value>
   </data>
   <data name="lblBmrResult.Size" type="System.Drawing.Size, System.Drawing">
-    <value>117, 41</value>
+    <value>40, 41</value>
   </data>
   <data name="lblBmrResult.TabIndex" type="System.Int32, mscorlib">
     <value>13</value>
   </data>
   <data name="lblBmrResult.Text" xml:space="preserve">
-    <value>1,790</value>
+    <value>0</value>
   </data>
   <data name="&gt;&gt;lblBmrResult.Name" xml:space="preserve">
     <value>lblBmrResult</value>
@@ -1420,186 +1624,6 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;guna2Button1.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="pictureBox3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="pictureBox3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>37, 540</value>
-  </data>
-  <data name="pictureBox3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>22, 27</value>
-  </data>
-  <data name="pictureBox3.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
-    <value>Zoom</value>
-  </data>
-  <data name="pictureBox3.TabIndex" type="System.Int32, mscorlib">
-    <value>24</value>
-  </data>
-  <data name="&gt;&gt;pictureBox3.Name" xml:space="preserve">
-    <value>pictureBox3</value>
-  </data>
-  <data name="&gt;&gt;pictureBox3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pictureBox3.Parent" xml:space="preserve">
-    <value>pnlResults</value>
-  </data>
-  <data name="&gt;&gt;pictureBox3.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="pictureBox2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="pictureBox2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>37, 505</value>
-  </data>
-  <data name="pictureBox2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>22, 20</value>
-  </data>
-  <data name="pictureBox2.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
-    <value>Zoom</value>
-  </data>
-  <data name="pictureBox2.TabIndex" type="System.Int32, mscorlib">
-    <value>23</value>
-  </data>
-  <data name="&gt;&gt;pictureBox2.Name" xml:space="preserve">
-    <value>pictureBox2</value>
-  </data>
-  <data name="&gt;&gt;pictureBox2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pictureBox2.Parent" xml:space="preserve">
-    <value>pnlResults</value>
-  </data>
-  <data name="&gt;&gt;pictureBox2.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="pictureBox1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="pictureBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>37, 469</value>
-  </data>
-  <data name="pictureBox1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>22, 20</value>
-  </data>
-  <data name="pictureBox1.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
-    <value>Zoom</value>
-  </data>
-  <data name="pictureBox1.TabIndex" type="System.Int32, mscorlib">
-    <value>22</value>
-  </data>
-  <data name="&gt;&gt;pictureBox1.Name" xml:space="preserve">
-    <value>pictureBox1</value>
-  </data>
-  <data name="&gt;&gt;pictureBox1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pictureBox1.Parent" xml:space="preserve">
-    <value>pnlResults</value>
-  </data>
-  <data name="&gt;&gt;pictureBox1.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="lblProteinResult.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="lblProteinResult.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Tahoma, 10.2pt, style=Bold</value>
-  </data>
-  <data name="lblProteinResult.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="lblProteinResult.Location" type="System.Drawing.Point, System.Drawing">
-    <value>312, 468</value>
-  </data>
-  <data name="lblProteinResult.Size" type="System.Drawing.Size, System.Drawing">
-    <value>70, 21</value>
-  </data>
-  <data name="lblProteinResult.TabIndex" type="System.Int32, mscorlib">
-    <value>25</value>
-  </data>
-  <data name="lblProteinResult.Text" xml:space="preserve">
-    <value>208.1g</value>
-  </data>
-  <data name="&gt;&gt;lblProteinResult.Name" xml:space="preserve">
-    <value>lblProteinResult</value>
-  </data>
-  <data name="&gt;&gt;lblProteinResult.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lblProteinResult.Parent" xml:space="preserve">
-    <value>pnlResults</value>
-  </data>
-  <data name="&gt;&gt;lblProteinResult.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="lblCarbsResult.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="lblCarbsResult.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Tahoma, 10.2pt, style=Bold</value>
-  </data>
-  <data name="lblCarbsResult.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="lblCarbsResult.Location" type="System.Drawing.Point, System.Drawing">
-    <value>312, 504</value>
-  </data>
-  <data name="lblCarbsResult.Size" type="System.Drawing.Size, System.Drawing">
-    <value>70, 21</value>
-  </data>
-  <data name="lblCarbsResult.TabIndex" type="System.Int32, mscorlib">
-    <value>26</value>
-  </data>
-  <data name="lblCarbsResult.Text" xml:space="preserve">
-    <value>277.5g</value>
-  </data>
-  <data name="&gt;&gt;lblCarbsResult.Name" xml:space="preserve">
-    <value>lblCarbsResult</value>
-  </data>
-  <data name="&gt;&gt;lblCarbsResult.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lblCarbsResult.Parent" xml:space="preserve">
-    <value>pnlResults</value>
-  </data>
-  <data name="&gt;&gt;lblCarbsResult.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="lblFatsResult.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="lblFatsResult.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Tahoma, 10.2pt, style=Bold</value>
-  </data>
-  <data name="lblFatsResult.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="lblFatsResult.Location" type="System.Drawing.Point, System.Drawing">
-    <value>323, 539</value>
-  </data>
-  <data name="lblFatsResult.Size" type="System.Drawing.Size, System.Drawing">
-    <value>59, 21</value>
-  </data>
-  <data name="lblFatsResult.TabIndex" type="System.Int32, mscorlib">
-    <value>27</value>
-  </data>
-  <data name="lblFatsResult.Text" xml:space="preserve">
-    <value>92.5g</value>
-  </data>
-  <data name="&gt;&gt;lblFatsResult.Name" xml:space="preserve">
-    <value>lblFatsResult</value>
-  </data>
-  <data name="&gt;&gt;lblFatsResult.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lblFatsResult.Parent" xml:space="preserve">
-    <value>pnlResults</value>
-  </data>
-  <data name="&gt;&gt;lblFatsResult.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">

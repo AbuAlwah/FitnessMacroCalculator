@@ -38,8 +38,8 @@
             this.rdoMale = new System.Windows.Forms.RadioButton();
             this.txtAge = new Guna.UI2.WinForms.Guna2TextBox();
             this.guna2HtmlLabel5 = new Guna.UI2.WinForms.Guna2HtmlLabel();
-            this.guna2TextBox2 = new Guna.UI2.WinForms.Guna2TextBox();
-            this.txtHeight = new Guna.UI2.WinForms.Guna2HtmlLabel();
+            this.txtHeight = new Guna.UI2.WinForms.Guna2TextBox();
+            this.tx = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.txtWeight = new Guna.UI2.WinForms.Guna2TextBox();
             this.guna2HtmlLabel4 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.guna2HtmlLabel3 = new Guna.UI2.WinForms.Guna2HtmlLabel();
@@ -50,24 +50,24 @@
             this.guna2HtmlLabel8 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.guna2HtmlLabel7 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.pnlResults = new Guna.UI2.WinForms.Guna2Panel();
+            this.lblFatsResult = new System.Windows.Forms.Label();
+            this.lblCarbsResult = new System.Windows.Forms.Label();
+            this.lblProteinResult = new System.Windows.Forms.Label();
+            this.pictureBox3 = new System.Windows.Forms.PictureBox();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.guna2HtmlLabel18 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.guna2HtmlLabel17 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.guna2HtmlLabel16 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.guna2HtmlLabel15 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.guna2HtmlLabel14 = new Guna.UI2.WinForms.Guna2HtmlLabel();
-            this.lnlTdeeResult = new System.Windows.Forms.Label();
+            this.lblTdeeResult = new System.Windows.Forms.Label();
             this.guna2HtmlLabel13 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.guna2HtmlLabel12 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.lblBmrResult = new System.Windows.Forms.Label();
             this.guna2HtmlLabel11 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.guna2HtmlLabel10 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.guna2Button1 = new Guna.UI2.WinForms.Guna2Button();
-            this.pictureBox3 = new System.Windows.Forms.PictureBox();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.lblProteinResult = new System.Windows.Forms.Label();
-            this.lblCarbsResult = new System.Windows.Forms.Label();
-            this.lblFatsResult = new System.Windows.Forms.Label();
             this.pnlHeader.SuspendLayout();
             this.pnlInputs.SuspendLayout();
             this.guna2Panel3.SuspendLayout();
@@ -106,8 +106,8 @@
             this.pnlInputs.Controls.Add(this.rdoMale);
             this.pnlInputs.Controls.Add(this.txtAge);
             this.pnlInputs.Controls.Add(this.guna2HtmlLabel5);
-            this.pnlInputs.Controls.Add(this.guna2TextBox2);
             this.pnlInputs.Controls.Add(this.txtHeight);
+            this.pnlInputs.Controls.Add(this.tx);
             this.pnlInputs.Controls.Add(this.txtWeight);
             this.pnlInputs.Controls.Add(this.guna2HtmlLabel4);
             this.pnlInputs.Controls.Add(this.guna2HtmlLabel3);
@@ -168,33 +168,33 @@
             this.guna2HtmlLabel5.ForeColor = System.Drawing.Color.LightGray;
             this.guna2HtmlLabel5.Name = "guna2HtmlLabel5";
             // 
-            // guna2TextBox2
-            // 
-            this.guna2TextBox2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(45)))), ((int)(((byte)(60)))));
-            this.guna2TextBox2.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(25)))), ((int)(((byte)(35)))));
-            this.guna2TextBox2.BorderRadius = 10;
-            this.guna2TextBox2.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.guna2TextBox2.DefaultText = "";
-            this.guna2TextBox2.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
-            this.guna2TextBox2.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
-            this.guna2TextBox2.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.guna2TextBox2.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.guna2TextBox2.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(25)))), ((int)(((byte)(35)))));
-            this.guna2TextBox2.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            resources.ApplyResources(this.guna2TextBox2, "guna2TextBox2");
-            this.guna2TextBox2.ForeColor = System.Drawing.Color.White;
-            this.guna2TextBox2.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.guna2TextBox2.Name = "guna2TextBox2";
-            this.guna2TextBox2.PlaceholderForeColor = System.Drawing.Color.DarkGray;
-            this.guna2TextBox2.PlaceholderText = "Enter your height";
-            this.guna2TextBox2.SelectedText = "";
-            // 
             // txtHeight
             // 
-            this.txtHeight.BackColor = System.Drawing.Color.Transparent;
+            this.txtHeight.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(45)))), ((int)(((byte)(60)))));
+            this.txtHeight.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(25)))), ((int)(((byte)(35)))));
+            this.txtHeight.BorderRadius = 10;
+            this.txtHeight.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtHeight.DefaultText = "";
+            this.txtHeight.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
+            this.txtHeight.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
+            this.txtHeight.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.txtHeight.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.txtHeight.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(25)))), ((int)(((byte)(35)))));
+            this.txtHeight.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             resources.ApplyResources(this.txtHeight, "txtHeight");
-            this.txtHeight.ForeColor = System.Drawing.Color.LightGray;
+            this.txtHeight.ForeColor = System.Drawing.Color.White;
+            this.txtHeight.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.txtHeight.Name = "txtHeight";
+            this.txtHeight.PlaceholderForeColor = System.Drawing.Color.DarkGray;
+            this.txtHeight.PlaceholderText = "Enter your height";
+            this.txtHeight.SelectedText = "";
+            // 
+            // tx
+            // 
+            this.tx.BackColor = System.Drawing.Color.Transparent;
+            resources.ApplyResources(this.tx, "tx");
+            this.tx.ForeColor = System.Drawing.Color.LightGray;
+            this.tx.Name = "tx";
             // 
             // txtWeight
             // 
@@ -313,7 +313,7 @@
             this.pnlResults.Controls.Add(this.guna2HtmlLabel16);
             this.pnlResults.Controls.Add(this.guna2HtmlLabel15);
             this.pnlResults.Controls.Add(this.guna2HtmlLabel14);
-            this.pnlResults.Controls.Add(this.lnlTdeeResult);
+            this.pnlResults.Controls.Add(this.lblTdeeResult);
             this.pnlResults.Controls.Add(this.guna2HtmlLabel13);
             this.pnlResults.Controls.Add(this.guna2HtmlLabel12);
             this.pnlResults.Controls.Add(this.lblBmrResult);
@@ -322,6 +322,51 @@
             this.pnlResults.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(45)))), ((int)(((byte)(60)))));
             resources.ApplyResources(this.pnlResults, "pnlResults");
             this.pnlResults.Name = "pnlResults";
+            // 
+            // lblFatsResult
+            // 
+            resources.ApplyResources(this.lblFatsResult, "lblFatsResult");
+            this.lblFatsResult.BackColor = System.Drawing.Color.Transparent;
+            this.lblFatsResult.ForeColor = System.Drawing.Color.White;
+            this.lblFatsResult.Name = "lblFatsResult";
+            // 
+            // lblCarbsResult
+            // 
+            resources.ApplyResources(this.lblCarbsResult, "lblCarbsResult");
+            this.lblCarbsResult.BackColor = System.Drawing.Color.Transparent;
+            this.lblCarbsResult.ForeColor = System.Drawing.Color.White;
+            this.lblCarbsResult.Name = "lblCarbsResult";
+            // 
+            // lblProteinResult
+            // 
+            resources.ApplyResources(this.lblProteinResult, "lblProteinResult");
+            this.lblProteinResult.BackColor = System.Drawing.Color.Transparent;
+            this.lblProteinResult.ForeColor = System.Drawing.Color.White;
+            this.lblProteinResult.Name = "lblProteinResult";
+            // 
+            // pictureBox3
+            // 
+            this.pictureBox3.BackColor = System.Drawing.Color.Transparent;
+            this.pictureBox3.Image = global::FitnessMacroCalculator.Properties.Resources.ellipse;
+            resources.ApplyResources(this.pictureBox3, "pictureBox3");
+            this.pictureBox3.Name = "pictureBox3";
+            this.pictureBox3.TabStop = false;
+            // 
+            // pictureBox2
+            // 
+            this.pictureBox2.BackColor = System.Drawing.Color.Transparent;
+            this.pictureBox2.Image = global::FitnessMacroCalculator.Properties.Resources.sun;
+            resources.ApplyResources(this.pictureBox2, "pictureBox2");
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.TabStop = false;
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
+            this.pictureBox1.Image = global::FitnessMacroCalculator.Properties.Resources.circle;
+            resources.ApplyResources(this.pictureBox1, "pictureBox1");
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.TabStop = false;
             // 
             // guna2HtmlLabel18
             // 
@@ -358,12 +403,12 @@
             this.guna2HtmlLabel14.ForeColor = System.Drawing.Color.LightGray;
             this.guna2HtmlLabel14.Name = "guna2HtmlLabel14";
             // 
-            // lnlTdeeResult
+            // lblTdeeResult
             // 
-            resources.ApplyResources(this.lnlTdeeResult, "lnlTdeeResult");
-            this.lnlTdeeResult.BackColor = System.Drawing.Color.Transparent;
-            this.lnlTdeeResult.ForeColor = System.Drawing.Color.CornflowerBlue;
-            this.lnlTdeeResult.Name = "lnlTdeeResult";
+            resources.ApplyResources(this.lblTdeeResult, "lblTdeeResult");
+            this.lblTdeeResult.BackColor = System.Drawing.Color.Transparent;
+            this.lblTdeeResult.ForeColor = System.Drawing.Color.CornflowerBlue;
+            this.lblTdeeResult.Name = "lblTdeeResult";
             // 
             // guna2HtmlLabel13
             // 
@@ -413,51 +458,7 @@
             this.guna2Button1.Name = "guna2Button1";
             this.guna2Button1.TextRenderingHint = System.Drawing.Text.TextRenderingHint.SystemDefault;
             this.guna2Button1.Tile = true;
-            // 
-            // pictureBox3
-            // 
-            this.pictureBox3.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox3.Image = global::FitnessMacroCalculator.Properties.Resources.ellipse;
-            resources.ApplyResources(this.pictureBox3, "pictureBox3");
-            this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.TabStop = false;
-            // 
-            // pictureBox2
-            // 
-            this.pictureBox2.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox2.Image = global::FitnessMacroCalculator.Properties.Resources.sun;
-            resources.ApplyResources(this.pictureBox2, "pictureBox2");
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.TabStop = false;
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox1.Image = global::FitnessMacroCalculator.Properties.Resources.circle;
-            resources.ApplyResources(this.pictureBox1, "pictureBox1");
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.TabStop = false;
-            // 
-            // lblProteinResult
-            // 
-            resources.ApplyResources(this.lblProteinResult, "lblProteinResult");
-            this.lblProteinResult.BackColor = System.Drawing.Color.Transparent;
-            this.lblProteinResult.ForeColor = System.Drawing.Color.White;
-            this.lblProteinResult.Name = "lblProteinResult";
-            // 
-            // lblCarbsResult
-            // 
-            resources.ApplyResources(this.lblCarbsResult, "lblCarbsResult");
-            this.lblCarbsResult.BackColor = System.Drawing.Color.Transparent;
-            this.lblCarbsResult.ForeColor = System.Drawing.Color.White;
-            this.lblCarbsResult.Name = "lblCarbsResult";
-            // 
-            // lblFatsResult
-            // 
-            resources.ApplyResources(this.lblFatsResult, "lblFatsResult");
-            this.lblFatsResult.BackColor = System.Drawing.Color.Transparent;
-            this.lblFatsResult.ForeColor = System.Drawing.Color.White;
-            this.lblFatsResult.Name = "lblFatsResult";
+            this.guna2Button1.Click += new System.EventHandler(this.btnCalculate_Click);
             // 
             // Form1
             // 
@@ -498,8 +499,8 @@
         private Guna.UI2.WinForms.Guna2TextBox txtWeight;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel4;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel3;
-        private Guna.UI2.WinForms.Guna2TextBox guna2TextBox2;
-        private Guna.UI2.WinForms.Guna2HtmlLabel txtHeight;
+        private Guna.UI2.WinForms.Guna2TextBox txtHeight;
+        private Guna.UI2.WinForms.Guna2HtmlLabel tx;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel6;
         private System.Windows.Forms.RadioButton rdoMale;
         private Guna.UI2.WinForms.Guna2TextBox txtAge;
@@ -515,7 +516,7 @@
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel10;
         private System.Windows.Forms.Label lblBmrResult;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel14;
-        private System.Windows.Forms.Label lnlTdeeResult;
+        private System.Windows.Forms.Label lblTdeeResult;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel13;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel12;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel18;
