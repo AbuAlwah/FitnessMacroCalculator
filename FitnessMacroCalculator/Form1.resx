@@ -150,7 +150,7 @@
     <value>0, 0</value>
   </data>
   <data name="pnlHeader.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1419, 103</value>
+    <value>1419, 121</value>
   </data>
   <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="pnlHeader.TabIndex" type="System.Int32, mscorlib">
@@ -168,14 +168,17 @@
   <data name="&gt;&gt;pnlHeader.ZOrder" xml:space="preserve">
     <value>4</value>
   </data>
+  <data name="guna2HtmlLabel2.AutoSize" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
   <data name="guna2HtmlLabel2.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI, 7.8pt, style=Bold</value>
   </data>
   <data name="guna2HtmlLabel2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>549, 67</value>
+    <value>564, 80</value>
   </data>
   <data name="guna2HtmlLabel2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>351, 19</value>
+    <value>374, 19</value>
   </data>
   <data name="guna2HtmlLabel2.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -195,14 +198,17 @@
   <data name="&gt;&gt;guna2HtmlLabel2.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
+  <data name="guna2HtmlLabel1.AutoSize" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
   <data name="guna2HtmlLabel1.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI, 22.2pt, style=Bold</value>
   </data>
   <data name="guna2HtmlLabel1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>497, 12</value>
+    <value>502, 25</value>
   </data>
   <data name="guna2HtmlLabel1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>455, 52</value>
+    <value>499, 52</value>
   </data>
   <data name="guna2HtmlLabel1.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -343,10 +349,10 @@
     <value>9</value>
   </data>
   <data name="pnlInputs.Location" type="System.Drawing.Point, System.Drawing">
-    <value>22, 119</value>
+    <value>38, 139</value>
   </data>
   <data name="pnlInputs.Size" type="System.Drawing.Size, System.Drawing">
-    <value>400, 600</value>
+    <value>842, 343</value>
   </data>
   <data name="pnlInputs.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -361,22 +367,22 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;pnlInputs.ZOrder" xml:space="preserve">
-    <value>3</value>
+    <value>2</value>
   </data>
   <data name="rdoFemale.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
   <data name="rdoFemale.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI, 10.2pt, style=Bold</value>
+    <value>Segoe UI, 9pt, style=Bold</value>
   </data>
   <data name="rdoFemale.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="rdoFemale.Location" type="System.Drawing.Point, System.Drawing">
-    <value>138, 533</value>
+    <value>527, 254</value>
   </data>
   <data name="rdoFemale.Size" type="System.Drawing.Size, System.Drawing">
-    <value>88, 27</value>
+    <value>80, 24</value>
   </data>
   <data name="rdoFemale.TabIndex" type="System.Int32, mscorlib">
     <value>10</value>
@@ -396,14 +402,17 @@
   <data name="&gt;&gt;rdoFemale.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
+  <data name="guna2HtmlLabel6.AutoSize" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
   <data name="guna2HtmlLabel6.Font" type="System.Drawing.Font, System.Drawing">
     <value>Tahoma, 9pt, style=Bold</value>
   </data>
   <data name="guna2HtmlLabel6.Location" type="System.Drawing.Point, System.Drawing">
-    <value>29, 496</value>
+    <value>434, 217</value>
   </data>
   <data name="guna2HtmlLabel6.Size" type="System.Drawing.Size, System.Drawing">
-    <value>57, 20</value>
+    <value>86, 20</value>
   </data>
   <data name="guna2HtmlLabel6.TabIndex" type="System.Int32, mscorlib">
     <value>9</value>
@@ -427,16 +436,16 @@
     <value>True</value>
   </data>
   <data name="rdoMale.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI, 10.2pt, style=Bold</value>
+    <value>Segoe UI, 9pt, style=Bold</value>
   </data>
   <data name="rdoMale.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="rdoMale.Location" type="System.Drawing.Point, System.Drawing">
-    <value>45, 533</value>
+    <value>434, 254</value>
   </data>
   <data name="rdoMale.Size" type="System.Drawing.Size, System.Drawing">
-    <value>70, 27</value>
+    <value>64, 24</value>
   </data>
   <data name="rdoMale.TabIndex" type="System.Int32, mscorlib">
     <value>8</value>
@@ -460,13 +469,13 @@
     <value>Segoe UI, 9pt</value>
   </data>
   <data name="txtAge.Location" type="System.Drawing.Point, System.Drawing">
-    <value>45, 393</value>
+    <value>29, 254</value>
   </data>
   <data name="txtAge.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 4, 3, 4</value>
   </data>
   <data name="txtAge.Size" type="System.Drawing.Size, System.Drawing">
-    <value>305, 48</value>
+    <value>333, 48</value>
   </data>
   <data name="txtAge.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
@@ -483,14 +492,17 @@
   <data name="&gt;&gt;txtAge.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
+  <data name="guna2HtmlLabel5.AutoSize" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
   <data name="guna2HtmlLabel5.Font" type="System.Drawing.Font, System.Drawing">
     <value>Tahoma, 9pt, style=Bold</value>
   </data>
   <data name="guna2HtmlLabel5.Location" type="System.Drawing.Point, System.Drawing">
-    <value>29, 358</value>
+    <value>29, 217</value>
   </data>
   <data name="guna2HtmlLabel5.Size" type="System.Drawing.Size, System.Drawing">
-    <value>91, 20</value>
+    <value>114, 20</value>
   </data>
   <data name="guna2HtmlLabel5.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
@@ -514,13 +526,13 @@
     <value>Segoe UI, 9pt</value>
   </data>
   <data name="txtHeight.Location" type="System.Drawing.Point, System.Drawing">
-    <value>45, 257</value>
+    <value>434, 134</value>
   </data>
   <data name="txtHeight.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 4, 3, 4</value>
   </data>
   <data name="txtHeight.Size" type="System.Drawing.Size, System.Drawing">
-    <value>305, 48</value>
+    <value>348, 48</value>
   </data>
   <data name="txtHeight.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
@@ -537,14 +549,17 @@
   <data name="&gt;&gt;txtHeight.ZOrder" xml:space="preserve">
     <value>5</value>
   </data>
+  <data name="tx.AutoSize" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
   <data name="tx.Font" type="System.Drawing.Font, System.Drawing">
     <value>Tahoma, 9pt, style=Bold</value>
   </data>
   <data name="tx.Location" type="System.Drawing.Point, System.Drawing">
-    <value>29, 221</value>
+    <value>434, 95</value>
   </data>
   <data name="tx.Size" type="System.Drawing.Size, System.Drawing">
-    <value>91, 20</value>
+    <value>102, 20</value>
   </data>
   <data name="tx.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -568,13 +583,13 @@
     <value>Segoe UI, 9pt</value>
   </data>
   <data name="txtWeight.Location" type="System.Drawing.Point, System.Drawing">
-    <value>45, 123</value>
+    <value>31, 134</value>
   </data>
   <data name="txtWeight.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 4, 3, 4</value>
   </data>
   <data name="txtWeight.Size" type="System.Drawing.Size, System.Drawing">
-    <value>305, 48</value>
+    <value>333, 48</value>
   </data>
   <data name="txtWeight.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -591,14 +606,17 @@
   <data name="&gt;&gt;txtWeight.ZOrder" xml:space="preserve">
     <value>7</value>
   </data>
+  <data name="guna2HtmlLabel4.AutoSize" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
   <data name="guna2HtmlLabel4.Font" type="System.Drawing.Font, System.Drawing">
     <value>Tahoma, 9pt, style=Bold</value>
   </data>
   <data name="guna2HtmlLabel4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>29, 88</value>
+    <value>29, 95</value>
   </data>
   <data name="guna2HtmlLabel4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>93, 20</value>
+    <value>114, 20</value>
   </data>
   <data name="guna2HtmlLabel4.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -618,14 +636,17 @@
   <data name="&gt;&gt;guna2HtmlLabel4.ZOrder" xml:space="preserve">
     <value>8</value>
   </data>
+  <data name="guna2HtmlLabel3.AutoSize" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
   <data name="guna2HtmlLabel3.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Tahoma, 12pt, style=Bold</value>
+    <value>Tahoma, 13.8pt, style=Bold</value>
   </data>
   <data name="guna2HtmlLabel3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>29, 22</value>
+    <value>29, 29</value>
   </data>
   <data name="guna2HtmlLabel3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>218, 26</value>
+    <value>289, 26</value>
   </data>
   <data name="guna2HtmlLabel3.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -706,10 +727,10 @@
     <value>4</value>
   </data>
   <data name="guna2Panel3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>438, 242</value>
+    <value>38, 501</value>
   </data>
   <data name="guna2Panel3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>400, 344</value>
+    <value>842, 220</value>
   </data>
   <data name="guna2Panel3.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -724,16 +745,19 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;guna2Panel3.ZOrder" xml:space="preserve">
-    <value>2</value>
+    <value>3</value>
+  </data>
+  <data name="guna2HtmlLabel9.AutoSize" type="System.Boolean, mscorlib">
+    <value>False</value>
   </data>
   <data name="guna2HtmlLabel9.Font" type="System.Drawing.Font, System.Drawing">
     <value>Tahoma, 9pt, style=Bold</value>
   </data>
   <data name="guna2HtmlLabel9.Location" type="System.Drawing.Point, System.Drawing">
-    <value>31, 205</value>
+    <value>434, 98</value>
   </data>
   <data name="guna2HtmlLabel9.Size" type="System.Drawing.Size, System.Drawing">
-    <value>37, 20</value>
+    <value>57, 20</value>
   </data>
   <data name="guna2HtmlLabel9.TabIndex" type="System.Int32, mscorlib">
     <value>11</value>
@@ -769,10 +793,10 @@
     <value>Bulk (Muscle Gain)</value>
   </data>
   <data name="cmbGoal.Location" type="System.Drawing.Point, System.Drawing">
-    <value>51, 245</value>
+    <value>434, 130</value>
   </data>
   <data name="cmbGoal.Size" type="System.Drawing.Size, System.Drawing">
-    <value>326, 36</value>
+    <value>348, 36</value>
   </data>
   <data name="cmbGoal.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
@@ -807,11 +831,14 @@
   <data name="cmbActivity.Items3" xml:space="preserve">
     <value>Very Active (6-7 days / week)</value>
   </data>
+  <data name="cmbActivity.Items4" xml:space="preserve">
+    <value>Extra Active ( Professional athlete)</value>
+  </data>
   <data name="cmbActivity.Location" type="System.Drawing.Point, System.Drawing">
-    <value>51, 124</value>
+    <value>31, 130</value>
   </data>
   <data name="cmbActivity.Size" type="System.Drawing.Size, System.Drawing">
-    <value>326, 36</value>
+    <value>333, 36</value>
   </data>
   <data name="cmbActivity.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -828,14 +855,17 @@
   <data name="&gt;&gt;cmbActivity.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
+  <data name="guna2HtmlLabel8.AutoSize" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
   <data name="guna2HtmlLabel8.Font" type="System.Drawing.Font, System.Drawing">
     <value>Tahoma, 9pt, style=Bold</value>
   </data>
   <data name="guna2HtmlLabel8.Location" type="System.Drawing.Point, System.Drawing">
-    <value>31, 85</value>
+    <value>31, 98</value>
   </data>
   <data name="guna2HtmlLabel8.Size" type="System.Drawing.Size, System.Drawing">
-    <value>106, 20</value>
+    <value>124, 20</value>
   </data>
   <data name="guna2HtmlLabel8.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -855,14 +885,17 @@
   <data name="&gt;&gt;guna2HtmlLabel8.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
+  <data name="guna2HtmlLabel7.AutoSize" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
   <data name="guna2HtmlLabel7.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Tahoma, 12pt, style=Bold</value>
+    <value>Tahoma, 13.8pt, style=Bold</value>
   </data>
   <data name="guna2HtmlLabel7.Location" type="System.Drawing.Point, System.Drawing">
-    <value>31, 26</value>
+    <value>31, 31</value>
   </data>
   <data name="guna2HtmlLabel7.Size" type="System.Drawing.Size, System.Drawing">
-    <value>167, 26</value>
+    <value>236, 26</value>
   </data>
   <data name="guna2HtmlLabel7.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -882,231 +915,6 @@
   <data name="&gt;&gt;guna2HtmlLabel7.ZOrder" xml:space="preserve">
     <value>4</value>
   </data>
-  <data name="&gt;&gt;lblFatsResult.Name" xml:space="preserve">
-    <value>lblFatsResult</value>
-  </data>
-  <data name="&gt;&gt;lblFatsResult.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lblFatsResult.Parent" xml:space="preserve">
-    <value>pnlResults</value>
-  </data>
-  <data name="&gt;&gt;lblFatsResult.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;lblCarbsResult.Name" xml:space="preserve">
-    <value>lblCarbsResult</value>
-  </data>
-  <data name="&gt;&gt;lblCarbsResult.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lblCarbsResult.Parent" xml:space="preserve">
-    <value>pnlResults</value>
-  </data>
-  <data name="&gt;&gt;lblCarbsResult.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;lblProteinResult.Name" xml:space="preserve">
-    <value>lblProteinResult</value>
-  </data>
-  <data name="&gt;&gt;lblProteinResult.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lblProteinResult.Parent" xml:space="preserve">
-    <value>pnlResults</value>
-  </data>
-  <data name="&gt;&gt;lblProteinResult.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;pictureBox3.Name" xml:space="preserve">
-    <value>pictureBox3</value>
-  </data>
-  <data name="&gt;&gt;pictureBox3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pictureBox3.Parent" xml:space="preserve">
-    <value>pnlResults</value>
-  </data>
-  <data name="&gt;&gt;pictureBox3.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;pictureBox2.Name" xml:space="preserve">
-    <value>pictureBox2</value>
-  </data>
-  <data name="&gt;&gt;pictureBox2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pictureBox2.Parent" xml:space="preserve">
-    <value>pnlResults</value>
-  </data>
-  <data name="&gt;&gt;pictureBox2.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;pictureBox1.Name" xml:space="preserve">
-    <value>pictureBox1</value>
-  </data>
-  <data name="&gt;&gt;pictureBox1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pictureBox1.Parent" xml:space="preserve">
-    <value>pnlResults</value>
-  </data>
-  <data name="&gt;&gt;pictureBox1.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="&gt;&gt;guna2HtmlLabel18.Name" xml:space="preserve">
-    <value>guna2HtmlLabel18</value>
-  </data>
-  <data name="&gt;&gt;guna2HtmlLabel18.Type" xml:space="preserve">
-    <value>Guna.UI2.WinForms.Guna2HtmlLabel, Guna.UI2, Version=2.0.4.8, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
-  </data>
-  <data name="&gt;&gt;guna2HtmlLabel18.Parent" xml:space="preserve">
-    <value>pnlResults</value>
-  </data>
-  <data name="&gt;&gt;guna2HtmlLabel18.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="&gt;&gt;guna2HtmlLabel17.Name" xml:space="preserve">
-    <value>guna2HtmlLabel17</value>
-  </data>
-  <data name="&gt;&gt;guna2HtmlLabel17.Type" xml:space="preserve">
-    <value>Guna.UI2.WinForms.Guna2HtmlLabel, Guna.UI2, Version=2.0.4.8, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
-  </data>
-  <data name="&gt;&gt;guna2HtmlLabel17.Parent" xml:space="preserve">
-    <value>pnlResults</value>
-  </data>
-  <data name="&gt;&gt;guna2HtmlLabel17.ZOrder" xml:space="preserve">
-    <value>7</value>
-  </data>
-  <data name="&gt;&gt;guna2HtmlLabel16.Name" xml:space="preserve">
-    <value>guna2HtmlLabel16</value>
-  </data>
-  <data name="&gt;&gt;guna2HtmlLabel16.Type" xml:space="preserve">
-    <value>Guna.UI2.WinForms.Guna2HtmlLabel, Guna.UI2, Version=2.0.4.8, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
-  </data>
-  <data name="&gt;&gt;guna2HtmlLabel16.Parent" xml:space="preserve">
-    <value>pnlResults</value>
-  </data>
-  <data name="&gt;&gt;guna2HtmlLabel16.ZOrder" xml:space="preserve">
-    <value>8</value>
-  </data>
-  <data name="&gt;&gt;guna2HtmlLabel15.Name" xml:space="preserve">
-    <value>guna2HtmlLabel15</value>
-  </data>
-  <data name="&gt;&gt;guna2HtmlLabel15.Type" xml:space="preserve">
-    <value>Guna.UI2.WinForms.Guna2HtmlLabel, Guna.UI2, Version=2.0.4.8, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
-  </data>
-  <data name="&gt;&gt;guna2HtmlLabel15.Parent" xml:space="preserve">
-    <value>pnlResults</value>
-  </data>
-  <data name="&gt;&gt;guna2HtmlLabel15.ZOrder" xml:space="preserve">
-    <value>9</value>
-  </data>
-  <data name="&gt;&gt;guna2HtmlLabel14.Name" xml:space="preserve">
-    <value>guna2HtmlLabel14</value>
-  </data>
-  <data name="&gt;&gt;guna2HtmlLabel14.Type" xml:space="preserve">
-    <value>Guna.UI2.WinForms.Guna2HtmlLabel, Guna.UI2, Version=2.0.4.8, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
-  </data>
-  <data name="&gt;&gt;guna2HtmlLabel14.Parent" xml:space="preserve">
-    <value>pnlResults</value>
-  </data>
-  <data name="&gt;&gt;guna2HtmlLabel14.ZOrder" xml:space="preserve">
-    <value>10</value>
-  </data>
-  <data name="&gt;&gt;lblTdeeResult.Name" xml:space="preserve">
-    <value>lblTdeeResult</value>
-  </data>
-  <data name="&gt;&gt;lblTdeeResult.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lblTdeeResult.Parent" xml:space="preserve">
-    <value>pnlResults</value>
-  </data>
-  <data name="&gt;&gt;lblTdeeResult.ZOrder" xml:space="preserve">
-    <value>11</value>
-  </data>
-  <data name="&gt;&gt;guna2HtmlLabel13.Name" xml:space="preserve">
-    <value>guna2HtmlLabel13</value>
-  </data>
-  <data name="&gt;&gt;guna2HtmlLabel13.Type" xml:space="preserve">
-    <value>Guna.UI2.WinForms.Guna2HtmlLabel, Guna.UI2, Version=2.0.4.8, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
-  </data>
-  <data name="&gt;&gt;guna2HtmlLabel13.Parent" xml:space="preserve">
-    <value>pnlResults</value>
-  </data>
-  <data name="&gt;&gt;guna2HtmlLabel13.ZOrder" xml:space="preserve">
-    <value>12</value>
-  </data>
-  <data name="&gt;&gt;guna2HtmlLabel12.Name" xml:space="preserve">
-    <value>guna2HtmlLabel12</value>
-  </data>
-  <data name="&gt;&gt;guna2HtmlLabel12.Type" xml:space="preserve">
-    <value>Guna.UI2.WinForms.Guna2HtmlLabel, Guna.UI2, Version=2.0.4.8, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
-  </data>
-  <data name="&gt;&gt;guna2HtmlLabel12.Parent" xml:space="preserve">
-    <value>pnlResults</value>
-  </data>
-  <data name="&gt;&gt;guna2HtmlLabel12.ZOrder" xml:space="preserve">
-    <value>13</value>
-  </data>
-  <data name="&gt;&gt;lblBmrResult.Name" xml:space="preserve">
-    <value>lblBmrResult</value>
-  </data>
-  <data name="&gt;&gt;lblBmrResult.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lblBmrResult.Parent" xml:space="preserve">
-    <value>pnlResults</value>
-  </data>
-  <data name="&gt;&gt;lblBmrResult.ZOrder" xml:space="preserve">
-    <value>14</value>
-  </data>
-  <data name="&gt;&gt;guna2HtmlLabel11.Name" xml:space="preserve">
-    <value>guna2HtmlLabel11</value>
-  </data>
-  <data name="&gt;&gt;guna2HtmlLabel11.Type" xml:space="preserve">
-    <value>Guna.UI2.WinForms.Guna2HtmlLabel, Guna.UI2, Version=2.0.4.8, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
-  </data>
-  <data name="&gt;&gt;guna2HtmlLabel11.Parent" xml:space="preserve">
-    <value>pnlResults</value>
-  </data>
-  <data name="&gt;&gt;guna2HtmlLabel11.ZOrder" xml:space="preserve">
-    <value>15</value>
-  </data>
-  <data name="&gt;&gt;guna2HtmlLabel10.Name" xml:space="preserve">
-    <value>guna2HtmlLabel10</value>
-  </data>
-  <data name="&gt;&gt;guna2HtmlLabel10.Type" xml:space="preserve">
-    <value>Guna.UI2.WinForms.Guna2HtmlLabel, Guna.UI2, Version=2.0.4.8, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
-  </data>
-  <data name="&gt;&gt;guna2HtmlLabel10.Parent" xml:space="preserve">
-    <value>pnlResults</value>
-  </data>
-  <data name="&gt;&gt;guna2HtmlLabel10.ZOrder" xml:space="preserve">
-    <value>16</value>
-  </data>
-  <data name="pnlResults.Location" type="System.Drawing.Point, System.Drawing">
-    <value>976, 119</value>
-  </data>
-  <data name="pnlResults.Size" type="System.Drawing.Size, System.Drawing">
-    <value>417, 600</value>
-  </data>
-  <data name="pnlResults.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;pnlResults.Name" xml:space="preserve">
-    <value>pnlResults</value>
-  </data>
-  <data name="&gt;&gt;pnlResults.Type" xml:space="preserve">
-    <value>Guna.UI2.WinForms.Guna2Panel, Guna.UI2, Version=2.0.4.8, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
-  </data>
-  <data name="&gt;&gt;pnlResults.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;pnlResults.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
   <data name="lblFatsResult.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -1117,7 +925,7 @@
     <value>NoControl</value>
   </data>
   <data name="lblFatsResult.Location" type="System.Drawing.Point, System.Drawing">
-    <value>312, 540</value>
+    <value>312, 572</value>
   </data>
   <data name="lblFatsResult.Size" type="System.Drawing.Size, System.Drawing">
     <value>21, 21</value>
@@ -1150,7 +958,7 @@
     <value>NoControl</value>
   </data>
   <data name="lblCarbsResult.Location" type="System.Drawing.Point, System.Drawing">
-    <value>312, 504</value>
+    <value>312, 536</value>
   </data>
   <data name="lblCarbsResult.Size" type="System.Drawing.Size, System.Drawing">
     <value>21, 21</value>
@@ -1183,7 +991,7 @@
     <value>NoControl</value>
   </data>
   <data name="lblProteinResult.Location" type="System.Drawing.Point, System.Drawing">
-    <value>312, 468</value>
+    <value>312, 500</value>
   </data>
   <data name="lblProteinResult.Size" type="System.Drawing.Size, System.Drawing">
     <value>21, 21</value>
@@ -1210,7 +1018,7 @@
     <value>NoControl</value>
   </data>
   <data name="pictureBox3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>37, 540</value>
+    <value>37, 572</value>
   </data>
   <data name="pictureBox3.Size" type="System.Drawing.Size, System.Drawing">
     <value>22, 27</value>
@@ -1237,7 +1045,7 @@
     <value>NoControl</value>
   </data>
   <data name="pictureBox2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>37, 505</value>
+    <value>37, 537</value>
   </data>
   <data name="pictureBox2.Size" type="System.Drawing.Size, System.Drawing">
     <value>22, 20</value>
@@ -1264,7 +1072,7 @@
     <value>NoControl</value>
   </data>
   <data name="pictureBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>37, 469</value>
+    <value>37, 501</value>
   </data>
   <data name="pictureBox1.Size" type="System.Drawing.Size, System.Drawing">
     <value>22, 20</value>
@@ -1287,14 +1095,17 @@
   <data name="&gt;&gt;pictureBox1.ZOrder" xml:space="preserve">
     <value>5</value>
   </data>
+  <data name="guna2HtmlLabel18.AutoSize" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
   <data name="guna2HtmlLabel18.Font" type="System.Drawing.Font, System.Drawing">
     <value>Tahoma, 9pt, style=Bold</value>
   </data>
   <data name="guna2HtmlLabel18.Location" type="System.Drawing.Point, System.Drawing">
-    <value>65, 543</value>
+    <value>65, 575</value>
   </data>
   <data name="guna2HtmlLabel18.Size" type="System.Drawing.Size, System.Drawing">
-    <value>35, 20</value>
+    <value>63, 20</value>
   </data>
   <data name="guna2HtmlLabel18.TabIndex" type="System.Int32, mscorlib">
     <value>21</value>
@@ -1314,14 +1125,17 @@
   <data name="&gt;&gt;guna2HtmlLabel18.ZOrder" xml:space="preserve">
     <value>6</value>
   </data>
+  <data name="guna2HtmlLabel17.AutoSize" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
   <data name="guna2HtmlLabel17.Font" type="System.Drawing.Font, System.Drawing">
     <value>Tahoma, 9pt, style=Bold</value>
   </data>
   <data name="guna2HtmlLabel17.Location" type="System.Drawing.Point, System.Drawing">
-    <value>65, 505</value>
+    <value>65, 537</value>
   </data>
   <data name="guna2HtmlLabel17.Size" type="System.Drawing.Size, System.Drawing">
-    <value>46, 20</value>
+    <value>74, 20</value>
   </data>
   <data name="guna2HtmlLabel17.TabIndex" type="System.Int32, mscorlib">
     <value>20</value>
@@ -1341,14 +1155,17 @@
   <data name="&gt;&gt;guna2HtmlLabel17.ZOrder" xml:space="preserve">
     <value>7</value>
   </data>
+  <data name="guna2HtmlLabel16.AutoSize" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
   <data name="guna2HtmlLabel16.Font" type="System.Drawing.Font, System.Drawing">
     <value>Tahoma, 9pt, style=Bold</value>
   </data>
   <data name="guna2HtmlLabel16.Location" type="System.Drawing.Point, System.Drawing">
-    <value>65, 469</value>
+    <value>65, 501</value>
   </data>
   <data name="guna2HtmlLabel16.Size" type="System.Drawing.Size, System.Drawing">
-    <value>58, 20</value>
+    <value>74, 20</value>
   </data>
   <data name="guna2HtmlLabel16.TabIndex" type="System.Int32, mscorlib">
     <value>19</value>
@@ -1368,14 +1185,17 @@
   <data name="&gt;&gt;guna2HtmlLabel16.ZOrder" xml:space="preserve">
     <value>8</value>
   </data>
+  <data name="guna2HtmlLabel15.AutoSize" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
   <data name="guna2HtmlLabel15.Font" type="System.Drawing.Font, System.Drawing">
     <value>Tahoma, 10.2pt, style=Bold</value>
   </data>
   <data name="guna2HtmlLabel15.Location" type="System.Drawing.Point, System.Drawing">
-    <value>37, 418</value>
+    <value>37, 450</value>
   </data>
   <data name="guna2HtmlLabel15.Size" type="System.Drawing.Size, System.Drawing">
-    <value>112, 23</value>
+    <value>130, 23</value>
   </data>
   <data name="guna2HtmlLabel15.TabIndex" type="System.Int32, mscorlib">
     <value>18</value>
@@ -1455,6 +1275,9 @@
   <data name="&gt;&gt;lblTdeeResult.ZOrder" xml:space="preserve">
     <value>11</value>
   </data>
+  <data name="guna2HtmlLabel13.AutoSize" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
   <data name="guna2HtmlLabel13.Font" type="System.Drawing.Font, System.Drawing">
     <value>Tahoma, 9pt, style=Bold</value>
   </data>
@@ -1462,7 +1285,7 @@
     <value>33, 247</value>
   </data>
   <data name="guna2HtmlLabel13.Size" type="System.Drawing.Size, System.Drawing">
-    <value>290, 20</value>
+    <value>321, 20</value>
   </data>
   <data name="guna2HtmlLabel13.TabIndex" type="System.Int32, mscorlib">
     <value>15</value>
@@ -1542,6 +1365,9 @@
   <data name="&gt;&gt;lblBmrResult.ZOrder" xml:space="preserve">
     <value>14</value>
   </data>
+  <data name="guna2HtmlLabel11.AutoSize" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
   <data name="guna2HtmlLabel11.Font" type="System.Drawing.Font, System.Drawing">
     <value>Tahoma, 9pt, style=Bold</value>
   </data>
@@ -1549,7 +1375,7 @@
     <value>33, 88</value>
   </data>
   <data name="guna2HtmlLabel11.Size" type="System.Drawing.Size, System.Drawing">
-    <value>212, 20</value>
+    <value>230, 20</value>
   </data>
   <data name="guna2HtmlLabel11.TabIndex" type="System.Int32, mscorlib">
     <value>12</value>
@@ -1569,6 +1395,9 @@
   <data name="&gt;&gt;guna2HtmlLabel11.ZOrder" xml:space="preserve">
     <value>15</value>
   </data>
+  <data name="guna2HtmlLabel10.AutoSize" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
   <data name="guna2HtmlLabel10.Font" type="System.Drawing.Font, System.Drawing">
     <value>Tahoma, 12pt, style=Bold</value>
   </data>
@@ -1576,7 +1405,7 @@
     <value>33, 31</value>
   </data>
   <data name="guna2HtmlLabel10.Size" type="System.Drawing.Size, System.Drawing">
-    <value>77, 26</value>
+    <value>95, 26</value>
   </data>
   <data name="guna2HtmlLabel10.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -1596,6 +1425,27 @@
   <data name="&gt;&gt;guna2HtmlLabel10.ZOrder" xml:space="preserve">
     <value>16</value>
   </data>
+  <data name="pnlResults.Location" type="System.Drawing.Point, System.Drawing">
+    <value>948, 139</value>
+  </data>
+  <data name="pnlResults.Size" type="System.Drawing.Size, System.Drawing">
+    <value>417, 680</value>
+  </data>
+  <data name="pnlResults.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;pnlResults.Name" xml:space="preserve">
+    <value>pnlResults</value>
+  </data>
+  <data name="&gt;&gt;pnlResults.Type" xml:space="preserve">
+    <value>Guna.UI2.WinForms.Guna2Panel, Guna.UI2, Version=2.0.4.8, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
+  </data>
+  <data name="&gt;&gt;pnlResults.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pnlResults.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
   <data name="guna2Button1.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI, 12pt, style=Bold</value>
   </data>
@@ -1603,10 +1453,10 @@
     <value>NoControl</value>
   </data>
   <data name="guna2Button1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>276, 753</value>
+    <value>158, 756</value>
   </data>
   <data name="guna2Button1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>896, 45</value>
+    <value>585, 63</value>
   </data>
   <data name="guna2Button1.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -1633,7 +1483,7 @@
     <value>7, 16</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>1419, 846</value>
+    <value>1419, 878</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>Form1</value>

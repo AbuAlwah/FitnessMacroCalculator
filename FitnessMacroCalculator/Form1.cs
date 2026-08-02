@@ -43,13 +43,53 @@ namespace FitnessMacroCalculator
                 }
                 else
                 {
-                    MessageBox.Show("Please select your gender!", "Input Error");
+                    MessageBox.Show("Please select your gender!", "Input Error",MessageBoxButtons.OK,MessageBoxIcon.Error);
                     return;
                 }
 
-                // 3. Display the calculated BMR
-                MessageBox.Show($"Your BMR is: {bmr:F0} kcal/day", "BMR Result");
+                // 3. Determine Activity Multiplier from cmbActivity
+                double activityMultiplier = 1.2; // Default Sedentary
+                switch (cmbActivity.SelectedIndex)
+                {
+                    case 0: activityMultiplier = 1.2; break;   // Sedentary
+                    case 1: activityMultiplier = 1.375; break; // Lightly Active
+                    case 2: activityMultiplier = 1.55; break;  // Moderately Active
+                    case 3: activityMultiplier = 1.725; break; // Very Active
+                    case 4: activityMultiplier = 1.9; break;   // Extra Active
+                }
+
+                // 4. Calculate TDEE
+                double tdee = bmr * activityMultiplier;
+
+                // 5. Adjust calories according to cmbGoal
+                double targetCalories = tdee;
+                if (cmbGoal.SelectedIndex == 1)      // Cut / Weight Loss
+                {
+                    targetCalories -= 500;
+                }
+                else if (cmbGoal.SelectedIndex == 2) // Bulk / Muscle Gain
+                {
+                    targetCalories += 400;
+                }
+
+                // 6. Calculate Macros Breakdown
+                // Protein: 2g per kg | Fats: 1g per kg | Carbs: Remaining calories / 4
+                double protein = weight * 2.0;
+                double fats = weight * 1.0;
+
+                double proteinCalories = protein * 4;
+                double fatsCalories = fats * 9;
+                double remainingCalories = targetCalories - (proteinCalories + fatsCalories);
+                double carbs = remainingCalories > 0 ? (remainingCalories / 4) : 0;
+
+                // 7. Display Results in UI Labels
+                lblBmrResult.Text = $"{Math.Round(bmr)}";
+                lblTdeeResult.Text = $"{Math.Round(targetCalories)}";
+                lblProteinResult.Text = $"{Math.Round(protein, 1)} g";
+                lblCarbsResult.Text = $"{Math.Round(carbs, 1)} g";
+                lblFatsResult.Text = $"{Math.Round(fats, 1)} g";
             }
+
             else
             {
                 MessageBox.Show("Please enter valid numbers in all fields!", "Input Error",MessageBoxButtons.OK,MessageBoxIcon.Error);

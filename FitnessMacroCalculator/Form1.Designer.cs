@@ -87,20 +87,21 @@
             // 
             // guna2HtmlLabel2
             // 
-            this.guna2HtmlLabel2.BackColor = System.Drawing.Color.Transparent;
             resources.ApplyResources(this.guna2HtmlLabel2, "guna2HtmlLabel2");
+            this.guna2HtmlLabel2.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel2.ForeColor = System.Drawing.Color.Gray;
             this.guna2HtmlLabel2.Name = "guna2HtmlLabel2";
             // 
             // guna2HtmlLabel1
             // 
-            this.guna2HtmlLabel1.BackColor = System.Drawing.Color.Transparent;
             resources.ApplyResources(this.guna2HtmlLabel1, "guna2HtmlLabel1");
+            this.guna2HtmlLabel1.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel1.ForeColor = System.Drawing.Color.White;
             this.guna2HtmlLabel1.Name = "guna2HtmlLabel1";
             // 
             // pnlInputs
             // 
+            this.pnlInputs.BorderRadius = 30;
             this.pnlInputs.Controls.Add(this.rdoFemale);
             this.pnlInputs.Controls.Add(this.guna2HtmlLabel6);
             this.pnlInputs.Controls.Add(this.rdoMale);
@@ -125,8 +126,8 @@
             // 
             // guna2HtmlLabel6
             // 
-            this.guna2HtmlLabel6.BackColor = System.Drawing.Color.Transparent;
             resources.ApplyResources(this.guna2HtmlLabel6, "guna2HtmlLabel6");
+            this.guna2HtmlLabel6.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel6.ForeColor = System.Drawing.Color.LightGray;
             this.guna2HtmlLabel6.Name = "guna2HtmlLabel6";
             // 
@@ -163,8 +164,8 @@
             // 
             // guna2HtmlLabel5
             // 
-            this.guna2HtmlLabel5.BackColor = System.Drawing.Color.Transparent;
             resources.ApplyResources(this.guna2HtmlLabel5, "guna2HtmlLabel5");
+            this.guna2HtmlLabel5.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel5.ForeColor = System.Drawing.Color.LightGray;
             this.guna2HtmlLabel5.Name = "guna2HtmlLabel5";
             // 
@@ -191,8 +192,8 @@
             // 
             // tx
             // 
-            this.tx.BackColor = System.Drawing.Color.Transparent;
             resources.ApplyResources(this.tx, "tx");
+            this.tx.BackColor = System.Drawing.Color.Transparent;
             this.tx.ForeColor = System.Drawing.Color.LightGray;
             this.tx.Name = "tx";
             // 
@@ -219,20 +220,21 @@
             // 
             // guna2HtmlLabel4
             // 
-            this.guna2HtmlLabel4.BackColor = System.Drawing.Color.Transparent;
             resources.ApplyResources(this.guna2HtmlLabel4, "guna2HtmlLabel4");
+            this.guna2HtmlLabel4.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel4.ForeColor = System.Drawing.Color.LightGray;
             this.guna2HtmlLabel4.Name = "guna2HtmlLabel4";
             // 
             // guna2HtmlLabel3
             // 
-            this.guna2HtmlLabel3.BackColor = System.Drawing.Color.Transparent;
             resources.ApplyResources(this.guna2HtmlLabel3, "guna2HtmlLabel3");
+            this.guna2HtmlLabel3.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel3.ForeColor = System.Drawing.Color.White;
             this.guna2HtmlLabel3.Name = "guna2HtmlLabel3";
             // 
             // guna2Panel3
             // 
+            this.guna2Panel3.BorderRadius = 30;
             this.guna2Panel3.Controls.Add(this.guna2HtmlLabel9);
             this.guna2Panel3.Controls.Add(this.cmbGoal);
             this.guna2Panel3.Controls.Add(this.cmbActivity);
@@ -244,8 +246,8 @@
             // 
             // guna2HtmlLabel9
             // 
-            this.guna2HtmlLabel9.BackColor = System.Drawing.Color.Transparent;
             resources.ApplyResources(this.guna2HtmlLabel9, "guna2HtmlLabel9");
+            this.guna2HtmlLabel9.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel9.ForeColor = System.Drawing.Color.LightGray;
             this.guna2HtmlLabel9.Name = "guna2HtmlLabel9";
             // 
@@ -283,25 +285,27 @@
             resources.GetString("cmbActivity.Items"),
             resources.GetString("cmbActivity.Items1"),
             resources.GetString("cmbActivity.Items2"),
-            resources.GetString("cmbActivity.Items3")});
+            resources.GetString("cmbActivity.Items3"),
+            resources.GetString("cmbActivity.Items4")});
             this.cmbActivity.Name = "cmbActivity";
             // 
             // guna2HtmlLabel8
             // 
-            this.guna2HtmlLabel8.BackColor = System.Drawing.Color.Transparent;
             resources.ApplyResources(this.guna2HtmlLabel8, "guna2HtmlLabel8");
+            this.guna2HtmlLabel8.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel8.ForeColor = System.Drawing.Color.LightGray;
             this.guna2HtmlLabel8.Name = "guna2HtmlLabel8";
             // 
             // guna2HtmlLabel7
             // 
-            this.guna2HtmlLabel7.BackColor = System.Drawing.Color.Transparent;
             resources.ApplyResources(this.guna2HtmlLabel7, "guna2HtmlLabel7");
+            this.guna2HtmlLabel7.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel7.ForeColor = System.Drawing.Color.White;
             this.guna2HtmlLabel7.Name = "guna2HtmlLabel7";
             // 
             // pnlResults
             // 
+            this.pnlResults.BorderRadius = 30;
             this.pnlResults.Controls.Add(this.lblFatsResult);
             this.pnlResults.Controls.Add(this.lblCarbsResult);
             this.pnlResults.Controls.Add(this.lblProteinResult);
@@ -370,29 +374,29 @@
             // 
             // guna2HtmlLabel18
             // 
-            this.guna2HtmlLabel18.BackColor = System.Drawing.Color.Transparent;
             resources.ApplyResources(this.guna2HtmlLabel18, "guna2HtmlLabel18");
+            this.guna2HtmlLabel18.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel18.ForeColor = System.Drawing.Color.LightGray;
             this.guna2HtmlLabel18.Name = "guna2HtmlLabel18";
             // 
             // guna2HtmlLabel17
             // 
-            this.guna2HtmlLabel17.BackColor = System.Drawing.Color.Transparent;
             resources.ApplyResources(this.guna2HtmlLabel17, "guna2HtmlLabel17");
+            this.guna2HtmlLabel17.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel17.ForeColor = System.Drawing.Color.LightGray;
             this.guna2HtmlLabel17.Name = "guna2HtmlLabel17";
             // 
             // guna2HtmlLabel16
             // 
-            this.guna2HtmlLabel16.BackColor = System.Drawing.Color.Transparent;
             resources.ApplyResources(this.guna2HtmlLabel16, "guna2HtmlLabel16");
+            this.guna2HtmlLabel16.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel16.ForeColor = System.Drawing.Color.LightGray;
             this.guna2HtmlLabel16.Name = "guna2HtmlLabel16";
             // 
             // guna2HtmlLabel15
             // 
-            this.guna2HtmlLabel15.BackColor = System.Drawing.Color.Transparent;
             resources.ApplyResources(this.guna2HtmlLabel15, "guna2HtmlLabel15");
+            this.guna2HtmlLabel15.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel15.ForeColor = System.Drawing.Color.White;
             this.guna2HtmlLabel15.Name = "guna2HtmlLabel15";
             // 
@@ -412,8 +416,8 @@
             // 
             // guna2HtmlLabel13
             // 
-            this.guna2HtmlLabel13.BackColor = System.Drawing.Color.Transparent;
             resources.ApplyResources(this.guna2HtmlLabel13, "guna2HtmlLabel13");
+            this.guna2HtmlLabel13.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel13.ForeColor = System.Drawing.Color.LightGray;
             this.guna2HtmlLabel13.Name = "guna2HtmlLabel13";
             // 
@@ -433,15 +437,15 @@
             // 
             // guna2HtmlLabel11
             // 
-            this.guna2HtmlLabel11.BackColor = System.Drawing.Color.Transparent;
             resources.ApplyResources(this.guna2HtmlLabel11, "guna2HtmlLabel11");
+            this.guna2HtmlLabel11.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel11.ForeColor = System.Drawing.Color.LightGray;
             this.guna2HtmlLabel11.Name = "guna2HtmlLabel11";
             // 
             // guna2HtmlLabel10
             // 
-            this.guna2HtmlLabel10.BackColor = System.Drawing.Color.Transparent;
             resources.ApplyResources(this.guna2HtmlLabel10, "guna2HtmlLabel10");
+            this.guna2HtmlLabel10.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel10.ForeColor = System.Drawing.Color.White;
             this.guna2HtmlLabel10.Name = "guna2HtmlLabel10";
             // 
@@ -467,18 +471,16 @@
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(25)))), ((int)(((byte)(35)))));
             this.Controls.Add(this.guna2Button1);
             this.Controls.Add(this.pnlResults);
-            this.Controls.Add(this.guna2Panel3);
             this.Controls.Add(this.pnlInputs);
+            this.Controls.Add(this.guna2Panel3);
             this.Controls.Add(this.pnlHeader);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.pnlHeader.ResumeLayout(false);
-            this.pnlHeader.PerformLayout();
             this.pnlInputs.ResumeLayout(false);
             this.pnlInputs.PerformLayout();
             this.guna2Panel3.ResumeLayout(false);
-            this.guna2Panel3.PerformLayout();
             this.pnlResults.ResumeLayout(false);
             this.pnlResults.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
