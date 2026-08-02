@@ -16,5 +16,11 @@ namespace FitnessMacroCalculator
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            cmbActivity.SelectedIndex = 0;
+            cmbGoal.SelectedIndex = 0;
+        }
     }
 }
