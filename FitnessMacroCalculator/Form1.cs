@@ -30,12 +30,28 @@ namespace FitnessMacroCalculator
                 double.TryParse(txtHeight.Text, out double height) &&
                 double.TryParse(txtAge.Text, out double age))
             {
-                // Display a confirmation message if parsing succeeds
-                MessageBox.Show($"Data read successfully!\nWeight: {weight}\nHeight: {height}\nAge: {age}", "Success");
+                // 2. Check gender selection and calculate BMR
+                double bmr = 0;
+
+                if (rdoMale.Checked)
+                {
+                    bmr = (10 * weight) + (6.25 * height) - (5 * age) + 5;
+                }
+                else if (rdoFemale.Checked)
+                {
+                    bmr = (10 * weight) + (6.25 * height) - (5 * age) - 161;
+                }
+                else
+                {
+                    MessageBox.Show("Please select your gender!", "Input Error");
+                    return;
+                }
+
+                // 3. Display the calculated BMR
+                MessageBox.Show($"Your BMR is: {bmr:F0} kcal/day", "BMR Result");
             }
             else
             {
-                // Display an error message if any field is empty or invalid
                 MessageBox.Show("Please enter valid numbers in all fields!", "Input Error",MessageBoxButtons.OK,MessageBoxIcon.Error);
             }
         }
