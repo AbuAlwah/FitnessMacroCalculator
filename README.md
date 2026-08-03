@@ -16,7 +16,7 @@ A modern, standalone desktop application built with **C#** and **Guna UI2** for 
 
 |⚡ Real-Time Macro Calculation Results |
 | :------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://github.com/AbuAlwah/FitnessMacroCalculator/blob/main/Main-Interface-Overview.png?raw=true"/> |
+| <img src="https://github.com/AbuAlwah/FitnessMacroCalculator/blob/main/Main-Interface-Overview-Runing.png?raw=true"/> |
 
 ---
 
